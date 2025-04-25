@@ -33,7 +33,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Elgentos - Seo Canonical URL >6.x](https://github.com/elgentos/shopware-seo-canonical-url)
 - [Social Media Icons >6.x](https://github.com/sebastianvolk/shopware-social-media-icons)
 - [Login required for categories >6.x](https://github.com/Shape-and-Shift/shopware-login-required)
-- [CMS Elements >6.x](https://github.com/SilvioPahrig/SndCmsExtensions)
 - [Shopware Maps >6.x](https://github.com/Shape-and-Shift/shopware-maps)
 - [Shopware Animate On Scroll >6.x](https://github.com/Shape-and-Shift/shopware-aos)
 - [Lazysizes Lazyload images >6.x](https://github.com/stefanpoensgen/SptecLazyload)
